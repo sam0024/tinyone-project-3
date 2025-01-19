@@ -165,6 +165,10 @@ header {
 	background-color: #fff;
 }
 
+.c_submit:hover {
+	background-color: #fff !important; 
+}
+
 .c_icon li {
 	margin-right: 30px !important;
 }
